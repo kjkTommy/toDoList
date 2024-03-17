@@ -1,0 +1,26 @@
+{
+  "high": [
+    {
+      "name": "Create json file",
+      "status": "inProgress"
+    },
+    {
+      "name": "write function",
+      "status": "inProgress"
+    },
+    {
+      "name": "rewrite calculate",
+      "status": "inProgress"
+    }
+  ],
+  "low": [
+    {
+      "name": "open folder with files",
+      "status": "inProgress"
+    },
+    {
+      "name": "create project",
+      "status": "inProgress"
+    }
+  ]
+}
